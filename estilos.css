@@ -4,3 +4,11 @@ justify-content: center;
 color: darkcyan;
 font: 30%;    
 }
+
+
+.formato1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    justify-content: center;
+    color: springgreen;
+    font: 90%;    
+    }
