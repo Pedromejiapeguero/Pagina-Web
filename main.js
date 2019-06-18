@@ -10,9 +10,36 @@
 // }
 
 
-let acumula = 0; 
 
-while (acumula < 10){
-    console.log("Mensaje " + acumula);
-    acumula++;
+
+// while (acumulador < 10) {
+//     console.log("Mensaje: " + acumulador);
+//     acumulador ++;
+// }
+
+// let dias = ["lunes", "martes", "miercoles", "jueves", "viernes", "sabado", "domingo"];
+
+// for (let i = 0; i < 7; i++){
+//     console.log(dias[i]);
+// }
+
+// for(i = 0; i < 7; i++){
+//     console.log("numero : " + i);
+// }
+
+// var numero = prompt("Introduce un número y se mostrará su factorial");
+// var resultado = 1;
+
+// for(var i=1; i<=numero; i++) {
+//   resultado *= i;
+// }
+// alert(resultado);
+
+
+
+
+let dias = ["lunes","martes","miercoles","jueves","viernes","sabado","domingo"];
+
+for(let i = 0; i < 7; i++){
+console.log(dias[i]);
 }
